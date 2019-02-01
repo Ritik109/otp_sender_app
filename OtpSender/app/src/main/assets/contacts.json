@@ -1,0 +1,41 @@
+{
+  "length": 2,
+  "contact_info": [
+    {
+      "firstname":"Kisan",
+      "middlename":"Network",
+      "lastname":"Coding Challenge",
+      "email":"ritik.kumar.gupta.109@gmail.com.com",
+      "phone":"919971792703"
+    },
+    {
+      "firstname":"Ritik",
+      "middlename":"Kumar",
+      "lastname":"Gupta",
+      "email":"ritik.kumar.gupta.109@gmail.com.com",
+      "phone":"917050567246"
+    },
+
+    {
+      "firstname":"Chandan",
+      "middlename":"Ram",
+      "lastname":"Sahu",
+      "email":"chndn@gmail.com.com",
+      "phone":"919971792703"
+    },
+    {
+      "firstname":"Saurabh",
+      "middlename":"",
+      "lastname":"Singh",
+      "email":"ss@gmail.com.com",
+      "phone":"919971792703"
+    },
+    {
+      "firstname":"Gaurav",
+      "middlename":"Raj",
+      "lastname":"Sinha",
+      "email":"grs@gmail.com.com",
+      "phone":"919051383673"
+    }
+  ]
+}
